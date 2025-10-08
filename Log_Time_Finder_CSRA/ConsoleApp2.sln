@@ -6,7 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{458D2E2F-C788-4053-9DEF-4458414B3EA9}"
 EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	GlobalSection(SolutionConfigurationPlatforms) = preSolutionsd
 		Debug|Any CPU = Debug|Any CPUzx
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
@@ -23,5 +23,6 @@ Global
 		SolutionGuid = {9A7B8E09-7854-4A73-82C0-5E8CD1E38DD3}
 	EndGlobalSection
 EndGlobal
+
 
 
