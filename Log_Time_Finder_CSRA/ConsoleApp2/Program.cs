@@ -4,7 +4,7 @@ internal class Program
 {
     private static void Main()
     {
-        string location = $"C:\\Users\\Admin\\Downloads\\BeforeLog-AllInOne\\BeforeLog-AllInOne\\10";
+        string location = $"C:\\Users\\Admiasdn\\Downloads\\BeforeLog-AllInOne\\BeforeLog-AllInOne\\10";
 
         string[] arrInputFiles = Directory.GetFiles(location);
 
@@ -72,4 +72,5 @@ internal class Program
         }
         //}
     }
+
 }
