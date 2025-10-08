@@ -5,7 +5,7 @@
   },
   "projects": {
     "D:\\Extra\\OJT\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.0",asd
       "restore": {
         "projectUniqueName": "D:\\Extra\\OJT\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
         "projectName": "ConsoleApp2",
@@ -65,4 +65,5 @@
       }
     }
   }
+
 }
